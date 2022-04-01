@@ -1,0 +1,140 @@
+body{
+    margin: 0%;
+	background-color:white;
+}
+.a{
+    background-image: url(../IMG/BG04.png);
+    background-repeat: no-repeat;
+    height: 650px;
+    background-size: 100%;
+    position: relative;
+}
+.c{
+   
+    background-repeat: no-repeat;
+    height: 1100px;
+    background-size: 100%;
+}
+.logo{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: blanchedalmond;
+}
+.sub{
+    color: blanchedalmond;
+    font-size: 25px
+}
+.b{
+	background-color: antiquewhite;
+	height: 500px;
+	background-image: url(../IMG/BGT1.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.b p{
+	font-size: 150%;
+	font-family: "microsoft yahei";
+	text-align: center;
+	padding: 350px;
+	color: darkblue;
+}
+.ct{
+	font-size: 50px;
+	font-family:"ms sans serif";
+	text-align: center;
+	padding: 50px;
+}
+.c1{
+	background-image: url(../IMG/Communication%20Icon.png);
+	height: 250px;
+	background-repeat: no-repeat;
+	margin-left: 150px;
+	font-weight: bolder;
+}
+.c1t{
+	font-size: 30px;
+	margin-left: 450px;
+	padding: 30px;
+	font-family: helvetica;
+	color: #00008B;
+}
+.c1t1{
+	margin-left: 450px;
+	text-align: left;
+	font-family: "microsoft yahei";
+	font-size: 20px;
+}
+.c2{
+	background-image: url(../IMG/Management%20skill%20icon.png);
+	height: 250px;
+	background-repeat: no-repeat;
+	background-position: right;
+	margin-right: 400px;
+	font-weight: bolder;
+}
+.c2t{
+	font-size: 30px;
+	margin-left: 550px;
+	padding: 30px;
+	font-family: helvetica;
+	color: #00008B;
+}
+.c2t2{
+	margin-left: 550px;
+	text-align: left;
+	font-family: "microsoft yahei";
+	font-size: 20px;
+}
+.c3{
+	background-image: url(../IMG/language%20Icon.png);
+	height: 250px;
+	background-repeat: no-repeat;
+	margin-left: 150px;
+	font-weight: bolder;
+	
+}
+.c3t{
+	font-size: 30px;
+	margin-left: 450px;
+	padding: 30px;
+	font-family: helvetica;
+	color: #00008B;
+}
+.c3t3{
+	margin-left: 450px;
+	text-align: left;
+	font-family: "microsoft yahei";
+	font-size: 20px;
+}
+.d{
+	height: 250px;
+}
+.dt{
+	font-size: 20px;
+	font-family: "microsoft yahei";
+	text-align: center;
+	padding: 30px;
+}
+.dc{
+	margin-left: 750px;
+	color: whitesmoke;
+	font-size: 25px;
+	background-color: lightseagreen;
+	border-radius: 20px;
+	text-decoration: none;
+	padding: 10px 25px;
+	
+}
+.e{
+	padding: 50px;
+	margin-left: 780px;
+}
+.link{
+	margin-left: 550px;
+	text-decoration: none;
+}
+.body{
+	background-color: antiquewhite;
+}
